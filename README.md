@@ -7,9 +7,6 @@
 </div>
   
   ##
-  <div style="display: inline_block" margin-bottom= 1em;<br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
 
   <div style= margin-top=10px;>
   <a href="https://instagram.com/ezequiel.soeiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
