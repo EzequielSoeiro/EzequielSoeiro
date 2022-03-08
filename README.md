@@ -25,7 +25,4 @@
   </div>
     
   
-- 👨‍🎓 __Sistema de informação 2º Período__ 
-- 👨‍💻 Estudando Java
-- 🎼 Facinado por Música
 
